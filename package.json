@@ -1,6 +1,6 @@
 {
   "name": "@wpkg/ts-mock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mock data from typescript interface",
   "main": "main.js",
   "directories": {

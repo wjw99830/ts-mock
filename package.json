@@ -10,6 +10,7 @@
     "ts-mock": "main.js"
   },
   "dependencies": {
+    "@wpkg/utils": "^0.0.2",
     "colors": "^1.3.3",
     "commander": "^2.20.0"
   },

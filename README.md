@@ -3,6 +3,7 @@ mock data from typescript interface
 
 # Install
 > npm i --dev @wpkg/ts-mock
+
 > yarn add --dev @wpkg/ts-mock
 
 # Usage
